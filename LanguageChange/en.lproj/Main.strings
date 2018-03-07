@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "中文"; ObjectID = "dz6-UJ-4g6"; */
+"dz6-UJ-4g6.text" = "english";
+
+/* Class = "UIButton"; normalTitle = "修改语言"; ObjectID = "nXI-hy-gCQ"; */
+"nXI-hy-gCQ.normalTitle" = "change language";
